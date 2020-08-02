@@ -1,0 +1,46 @@
+.navbar{
+    border-radius: 0px;
+    width: 100%;
+}
+
+.col-xs-12{
+    margin:20px 0px 20px;
+    padding: 10px 20px 10px;
+    background-color: gray;
+}
+
+.navbar-nav{
+    background-color: gray;
+}
+
+.divider{
+    color: black;
+    height: 1px;
+}
+
+
+.navbar-inverse .navbar-nav>li>a {
+    color: black;
+}
+
+.navbar-nav {
+    margin: 0px;
+}
+
+.navbar-collapse {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.nav>li {
+    border-bottom: 0.5px solid black;
+}
+
+.last-link{
+    margin-left: 20px;
+    color: black;
+}
+
+.last-link:hover{
+    color: maroon;
+}
